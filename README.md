@@ -5,7 +5,7 @@
 **Reg. No.:** 481971  
 **Section:** BSDS-01 A
 
-This repository contains my Lab 3: HTML Advanced — Personal Portfolio II for CS313 (Web Engineering). I organize the project into proper folders, I use a single external `style.css`, I arrange sections using **float** and **clear**, and I deploy using **GitHub Pages**.
+Hi. I'm Abdur Rafey. This repository contains my Lab 3: HTML Advanced — Personal Portfolio II for CS313 (Web Engineering). I organize the project into proper folders, I use a single external `style.css`, I arrange sections using **float** and **clear**, and I deploy using **GitHub Pages**.
 
 ## Project Structure
 
